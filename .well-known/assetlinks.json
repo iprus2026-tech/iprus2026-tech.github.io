@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.iprus2026tech.bazardrivecloud.lab",
+      "sha256_cert_fingerprints": [
+        "68:37:FA:2B:1E:9D:70:2B:40:A3:5C:2A:A3:91:E6:E0:70:CE:52:7A:35:58:15:6B:94:8C:0A:E4:17:98:D4:F4"
+      ]
+    }
+  }
+]
